@@ -1,0 +1,12 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100" height="100" rx="20" fill="#12b886"/>
+  <!-- Mortarboard top board -->
+  <polygon points="50,19 79,33 50,47 21,33" fill="white"/>
+  <!-- Cap body -->
+  <rect x="37" y="49" width="26" height="15" rx="2.5" fill="white"/>
+  <!-- Tassel cord -->
+  <line x1="79" y1="33" x2="79" y2="56" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <!-- Tassel end -->
+  <circle cx="79" cy="61" r="5" fill="white"/>
+</svg>
